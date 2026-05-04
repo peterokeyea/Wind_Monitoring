@@ -78,19 +78,25 @@ Temperature anomalies indicate overheating conditions in turbine operation.
 
 ## How to Run
 
-```bash
 pip install -r requirements.txt
 python src/wind_monitoring.py
 
 
 ## Research Report
 Full technical report available here:
-[Download PDF](report/Wind_Turbine_Monitoring_Report.pdf)
+[Download PDF](https://github.com/peterokeyea/Wind_Monitoring/edit/main/README.md#:~:text=report-,wind_monitoring_report,-.pdf)
 
 
 ## Future Work
 - Apply model to real SCADA datasets
-- Improve anomaly detection using deep learning (LSTM)
-- Deploy real-time monitoring system
+- Implement deep learning-based temporal anomaly detection using LSTM networks for time-series SCADA data.
+= Develop real-time monitoring pipeline using streaming frameworks (Kafka, Spark).
+- Integrate digital twin models for predictive maintenance.
+
+## Research Relevance
+This work contributes to:
+- Predictive maintenance in wind energy systems
+- Reduction of turbine downtime
+- Improved energy efficiency in renewable systems
 
 
