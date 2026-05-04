@@ -84,7 +84,7 @@ python src/wind_monitoring.py
 
 ## Research Report
 Full technical report available here:
-[Download PDF](https://github.com/peterokeyea/Wind_Monitoring/edit/main/README.md#:~:text=report-,wind_monitoring_report,-.pdf)
+[Download PDF](report/wind_monitoring_report.pdf)
 
 
 ## Future Work
