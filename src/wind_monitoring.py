@@ -80,6 +80,3 @@ plt.show()
 data.to_csv("wind_monitoring.csv", index=False)
 
 print("dataset saved as wind_monitoring.csv")
-
-import os
-print(os.getcwd())
